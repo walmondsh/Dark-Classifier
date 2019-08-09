@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # Importing Dataset
 dataset = pd.read_csv('dark_traffic.csv')
 
-# create function to clean html text
+# create function to clean url text
 import re
 from urllib.parse import urlparse
 
