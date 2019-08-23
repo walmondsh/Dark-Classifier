@@ -8,3 +8,6 @@ This repository is containing the portfolio project related to machine learning,
   - __[Sentiment Analyzer For Restaurant Review](https://github.com/walmondsh/Machine-Learning-Portfolio/blob/master/Restaurant_Review_Sentiment_Predictor.ipynb)__ : A simple predicting model to determine whether a restaurant review is positive or negative.
   - __[Quiting Employee Predictor](https://github.com/walmondsh/Machine-Learning-Portfolio/blob/master/Quiting%20Employee%20Predictor.ipynb)__ : A deep neural network capable of learning which employee is at risk of leaving the company.
   - __[Ads Effectivity Calculator](https://github.com/walmondsh/Machine-Learning-Portfolio/blob/master/Ads%20Effectivity%20Calculator.ipynb)__ : Machine learning model capable of calculating which ads in the most effective through reinforcement    learning
+
+### Contact
+If you are interested, I am widely open for discussion or feedback about my portfolio, working opportunity, and collaboration. Send your email to walmondsh@gmail.com 
