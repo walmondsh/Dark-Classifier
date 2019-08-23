@@ -1,4 +1,4 @@
-# Machine Learning Portofolio
+# Machine Learning Portfolio
 ***
 This repository is containing the portfolio project related to machine learning, specifically compiled with the purpose of displaying the builder skill and knowledge on the related subject matter. The portfolio is presented with IPython Notebook.
 
